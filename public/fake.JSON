@@ -25,14 +25,14 @@
     },
     {
         "id": 5,
-        "name": "Dr. Md. Golam Rubby",
-        "description": "BDS, FCPS (Orthodontics & Dentofacial Orthopedics)Dental Surgeon – Orthodontics",
-        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/Golam-Rubby-90x90.jpg"
+        "name": "Child Development Centre",
+        "description": " Our service starts from the very beginning of stepping into the centre. There is no inequality regarding ethnicity, gender and religion. We value and respect every parent who has any question or concern about development or problems relating to neurological aspect. From this point, our dedicated and devoted associates help children where to go. ",
+        "img": "https://image.shutterstock.com/image-vector/child-development-center-activities-set-260nw-1643839681.jpg"
     },
     {
         "id": 6,
-        "name": "Prof. Dr. A. Q. M. Reza",
-        "description": "MBBS, MD (Cardiology)",
-        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/A.-Q.-M.-Reza-90x90.jpg"
+        "name": "Neurology",
+        "description": "Department of Neurology of Evercare Hospital Dhaka provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles. Evercare Hospital Dhakais the only hospital in the country to be providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof. ",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2015/05/neuro.jpg"
     }
 ]
