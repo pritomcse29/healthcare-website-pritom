@@ -1,0 +1,132 @@
+{
+    "service": [
+        {
+            "name": "SarkarHealthCare Cancer Care Centre",
+            "description": "  he division of Evercare Cancer Care Centre provides consultations by Consultants- Radiation & Clinical Oncologist, Medical Oncologist Surgical Oncologist through Pain & Palliative Care and treatment services including Radiation therapy Chemotherapy Cancer Surgeries ICU Care Immunotherapy, Biotherapy Supportive therapy and Palliative care for adult and child cancer patients.All Cancer treatment under one roof.The center is getting ready to provide world class cancer treatment facilities starting from preventive to palliative care under one roof. Evercare Hospital Dhaka, has installed a high-end fully loaded Radiotherapy machine, LINAC HD -VERSA Signature model. Being the first of its kind in Bangladesh, the machine is fitted with a six dimensional rotation couch known as HEXA POD and is programmed to deliver radiation doses to tumors with pinpoint accuracy from any angle. HD VERSA, as the name suggests, has versatile properties and is capable of treating tumors in either a basic conventional form or the most advanced form of therapy “stereotactic radiotherapy”. Our ultramodern radiotherapy unit is managed by well-knownprofessionals in the field of oncology from both home and abroad.The center is also equipped with an ultramodern HDR Brachytherapy (treatment of cancer by the insertion of radioactive source directly into the body cavity andtissues) unit “FLEXITRON” which houses Cobalt 60 as a radiation source thus ensuring uninterrupted treatment due to the long half-life of the source.To provide the best possible treatment, our experts in the realted fields debate, delibertae and discuss regarding the patient diagnosed with cancer in MDT ‘tumor board’. Our experts then decide the best form of treatment for each and every patient based on solid scientific evidence.To add on to its already existing armamentarium, Evercare Hospital Dhaka proudly announces that our most advanced PET-CT machine has recently been installed, which provides cutting-edge technology to stage, plan, manage and monitor the treatment of the tumor or tumors in question.The symptom management team of ours are the best in Bangladesh and always stand ready to make our patient’s life free of pain and suffering from the uncontrollable yet unwanted symptoms of cancer, thus “adding life to years. ",
+            "location": {
+                "street": "12/40 new road",
+                "city": "dhaka"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "1"
+            },
+            "phone": "01768211375",
+            "picture": {
+                "thumbnail": "https://www.Evercarebd.com/wp-content/uploads/2015/04/LINAC.jpg"
+            }
+        },
+        {
+            "name": "Cardiology",
+            "description": " The Cardiology Department of Evercare Hospital Dhaka has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. Our specialists diagnose and manage full range of heart conditions, and we are fully equipped with state-of-the-art facilities and complete range of services – from cardiac investigations to Interventional Cardiology procedures in ultramodern Catheterization Lab (Cath Lab). Cardio-pulmonary rehabilitation program is offered to patients through our Physical Medicine & Rehabilitation Centre. The hospital offers a multidisciplinary in-patient program, and also has complete Coronary Care Unit and Cardiothoracic ICU for critical cardiac patients. For emergency patients, we have 24-hour Accident & Emergency Centre and specialized team for stabilization and treatment of the patient.The Department generally treats cardiac conditions related to hypertension, aortic disease, arrhythmias, atrial fibrillation, cardiomyopathy, high cholesterol, congenital heart defects, coronary artery disease, myocardial infarction, heart failure, heart murmurs, heart valve diseases, other co-morbid conditions, etc.Department of Cardiology provides consultation services in level-5 (OPD) through highly qualified and experienced Consultants, who carefully evaluate each patient. After diagnosing the patient’s condition, our Consultants discuss available treatment options and recommend the most effective treatment.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "bogura"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "2"
+            },
+            "phone": "01768211375",
+            "picture": {
+                "thumbnail": "https://www.evercarebd.com/wp-content/uploads/2015/04/car_3.jpg"
+            }
+        },
+        {
+            "name": "Urology",
+            "description": "The Department of Urology at Evercare Hospital Dhaka is dedicated to providing state-of-the-art medical and surgical care for all specialties of male and female urology (both adult and paediatric), as well as male infertility problems. Each year, our highly experienced urologists treat hundreds of patients, providing expert diagnosis, care and surgeries for complete range of urological conditions. We offer patients confidential evaluations, treatment and follow-up care with state-of-the-art resources, like ultra modern operation theatres (OT), dedicated Kidney Transplant Unit, Lithotripsy Unit, as well as modern diagnostic facilities like urodynamic studies. Our kidney transplant program has a 100% success rate with nearly zero infection. The department has become a national referral surgical centre.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "khulna"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "3"
+            },
+            "phone": "01768211375",
+            "picture": {
+                "thumbnail": "https://images.squarespace-cdn.com/content/v1/5a2649638c56a850bcfe2c33/1536461883046-CP650NB2BPP1Y0R9AML5/Fairbanks+Urology+Procedure+Room.jpg"
+            }
+        },
+        {
+            "name": "Dental & Maxillofacial Surgery",
+            "description": "Department of Dental & Maxillofacial Surgery of Evercare Hospital Dhaka offers full scope of the dental specialty, including general dentistry and specialized services in oral & maxillofacial surgery, orthodontics and restorative dentistry (endodontics and prosthodontics). Our aim is to deliver oral health care of the highest standard to our patients through experienced dental surgeons and modern technology. The department provides diagnosis, management and surgical treatment of defects and injuries related to the function and aesthetics of the teeth, gums and jaws. It also provides excellent surgical service for all sorts of maxillofacial surgery & disease.The department provides consultation services in level-4 (OPD) through highly qualified and experienced Consultants, who carefully evaluate each patient. After diagnosing the patient’s condition, our Consultants discuss available treatment options and recommend the most effective treatment.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "Rangpur"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "4"
+            },
+            "phone": "01768211375",
+            "picture": {
+                "thumbnail": "https://www.evercarebd.com/wp-content/uploads/2015/05/Dental_Maxillofacial_Surgery-150x150.jpg"
+            }
+        },
+        {
+            "name": "Child Development Centre",
+            "description": "Our service starts from the very beginning of stepping into the centre. There is no inequality regarding ethnicity, gender and religion. We value and respect every parent who has any question or concern about development or problems relating to neurological aspect. From this point, our dedicated and devoted associates help children where to go.The children, who have come for the first time, are taken to our ‘Walk-In-Clinic’, the already diagnosed epilepsy children to ‘Epilepsy Clinic, the ‘High Risk Baby’ to ‘Multiple disability clinic: We always encourage and welcome parents to accompany their children as we strongly believe that parents are the ones who know their children the best and without their active participation it is impossible to make any changes for these affected children.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "Rajshahi"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "5"
+            },
+            "phone": "01768-211375",
+            "picture": {
+                "thumbnail": "https://image.shutterstock.com/image-vector/child-development-center-activities-set-260nw-1643839681.jpg"
+            }
+        },
+        {
+            "description": "Department of Neurology of Evercare Hospital Dhaka provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles. Evercare Hospital Dhakais the only hospital in the country to be providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof. The Neurology Department has experienced American Board Certified Neurologist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of neurologists, nurses and technologists, who are committed to patient care. Neuro Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre.",
+            "name": "Neurology",
+            "location": {
+                "street": "12/40 new road",
+                "city": "Narayanganj"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "6"
+            },
+            "phone": "01768-211375",
+            "picture": {
+                "thumbnail": "https://www.evercarebd.com/wp-content/uploads/2015/05/neuro.jpg"
+            }
+        },
+        {
+            "name": "Respiratory Medicine",
+            "description": "Department of Respiratory Medicine of Evercare Hospital Dhaka offers comprehensive diagnosis, treatment and continuing care for patients with variety of conditions of the lungs and respiratory tract. Our clinical services are provided by experienced Respiratory Medicine Consultant and backed by state-of-the-art technology. The department performs investigations like pulmonary function tests (PFT) and bronchoscopy, and is well supported in terms of imaging modalities by Department of Diagnostic & Interventional Radiology.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "Natore"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "7"
+            },
+            "phone": "01768-211375",
+            "picture": {
+                "thumbnail": "https://www.evercarebd.com/wp-content/uploads/2015/04/R_Medicine.jpg"
+            }
+        },
+        {
+            "name": "Plastic, Reconstructive & Cosmetic Surgery",
+            "description": "Department of Plastic, Reconstructive & Cosmetic Surgery of Evercare Hospital Dhaka provides exceptional and extensive services to its patients in several aspects of Plastic Surgery. Our post graduate qualified plastic surgeons utilize the latest techniques and provide a wide variety of aesthetic and reconstructive procedures for both men and women with safe, successful outcomes. The department offers both surgical and non-surgical services to help patients look and feel their best. The diverse works of the Plastic, Reconstructive & Cosmetic Surgery Department is unique to Evercare Hospital Dhaka.",
+            "location": {
+                "street": "12/40 new road",
+                "city": "Barishal"
+            },
+            "email": "sarkarHealthCare@ps.com",
+            "identity": {
+                "id": "8"
+            },
+            "phone": "01768-211375",
+            "picture": {
+                "thumbnail": "https://www.evercarebd.com/wp-content/uploads/2015/05/p_r_c_1.jpg"
+            }
+        }
+    ]
+}

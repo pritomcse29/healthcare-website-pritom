@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "SarkarHealthCare Cancer Care Centre",
+        "description": "The division of SarkarHealthCare Cancer Care Centre provides consultations by Consultants- Radiation & Clinical Oncologist, Medical Oncologist, Surgical Oncologist; through Pain & Palliative Care and treatment services including Radiation therapy, Chemotherapy, Cancer Surgeries, ICU Care, Immunotherapy, Biotherapy, Supportive therapy and Palliative care for adult and child cancer patients. ",
+        "img": "https://www.Evercarebd.com/wp-content/uploads/2015/04/LINAC.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "description": "The Cardiology Department of Evercare Hospital Dhaka has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. ",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2015/04/car_3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Urology",
+        "description": "The Department of Urology at Evercare Hospital Dhaka is dedicated to providing state-of-the-art medical and surgical care for all specialties of male and female urology (both adult and paediatric), as well as male infertility problems. Each year, our highly experienced urologists treat hundreds of patients, providing expert diagnosis, care and surgeries for complete range of urological conditions.  ",
+        "img": "https://images.squarespace-cdn.com/content/v1/5a2649638c56a850bcfe2c33/1536461883046-CP650NB2BPP1Y0R9AML5/Fairbanks+Urology+Procedure+Room.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dental & Maxillofacial Surgery",
+        "description": "Department of Dental & Maxillofacial Surgery of Evercare Hospital Dhaka offers full scope of the dental specialty, including general dentistry and specialized services in oral & maxillofacial surgery, orthodontics and restorative dentistry (endodontics and prosthodontics). Our aim is to deliver oral health care of the highest standard to our patients through experienced dental surgeons and modern technology. ",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2015/05/Dental_Maxillofacial_Surgery-150x150.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Md. Golam Rubby",
+        "description": "BDS, FCPS (Orthodontics & Dentofacial Orthopedics)Dental Surgeon – Orthodontics",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/Golam-Rubby-90x90.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Prof. Dr. A. Q. M. Reza",
+        "description": "MBBS, MD (Cardiology)",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/A.-Q.-M.-Reza-90x90.jpg"
+    }
+]
